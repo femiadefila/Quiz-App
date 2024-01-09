@@ -156,7 +156,7 @@ const questions = [
    },
 
    {
-    question: "Who can watch game till eternity?",
+    question: "Who can watch games on Youtube till eternity?",
     answers: [
      { text: "Prof", correct: false },
      { text: "Ayanfe", correct: true },

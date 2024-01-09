@@ -19,12 +19,12 @@ const questions = [
    ]
   },
   {
-   question: "Who made Gloria and Vic to leave?",
+   question: "Who or what  made Gloria and Vic to leave?",
    answers: [
-    { text: "Bola", correct: true },
+    { text: "Bola", correct: false },
     { text: "Mumsi", correct: false },
     { text: "Popsi", correct: false },
-    { text: "Pap", correct: false },
+    { text: "Pap", correct: true },
    ]
   },
   {

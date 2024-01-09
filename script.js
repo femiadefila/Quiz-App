@@ -55,6 +55,15 @@ const questions = [
     ]
    },
    {
+    question: "Popsi's Sidekick?",
+    answers: [
+     { text: "Mumsi", correct: false },
+     { text: "Hope", correct: true },
+     { text: "Bola", correct: false },
+     { text: "Ochez", correct: false },
+    ]
+   },
+   {
     question: "The most Hardworking person in the house?",
     answers: [
      { text: "Pepepe", correct: false },

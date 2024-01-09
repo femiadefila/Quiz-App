@@ -218,6 +218,26 @@ const questions = [
      { text: "bola", correct: false },
     ]
    },
+
+   {
+    question: "If Gloria and Vic did not leave will work be much like dis?",
+    answers: [
+     { text: "No", correct: false },
+     { text: "Yes", correct: false },
+     { text: "Kinda", correct: false },
+     { text: "Absolutely Not", correct: true },
+    ]
+   },
+
+   {
+    question: "Next time when Prtof say let's go and beg for someone will you follow Prof?",
+    answers: [
+     { text: "Yes", correct: false },
+     { text: "No", correct: false },
+     { text: "I will honour prof and follow him", correct: true },
+     { text: "Absolutely Not", correct: false },
+    ]
+   },
    {
     question: "After completing this quiz, do you believe you are smart?",
     answers: [

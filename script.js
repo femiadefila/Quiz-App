@@ -243,7 +243,7 @@ const questions = [
     answers: [
      { text: "Yes", correct: false },
      { text: "No", correct: false },
-     { text: "I will honour prof and follow him", correct: true },
+     { text: "I will honour Prof and follow him", correct: true },
      { text: "Absolutely Not", correct: false },
     ]
    },

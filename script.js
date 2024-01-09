@@ -10,7 +10,7 @@ const questions = [
   },
  
   {
-   question: "Another name for Reign is?",
+   question: "The best name for Bola's dog Reign is?",
    answers: [
     { text: "Molly", correct: false },
     { text: "Leo", correct: false },
@@ -24,7 +24,7 @@ const questions = [
     { text: "Bola", correct: true },
     { text: "Mumsi", correct: false },
     { text: "Popsi", correct: false },
-    { text: "Pepepe", correct: false },
+    { text: "Pap", correct: false },
    ]
   },
   {

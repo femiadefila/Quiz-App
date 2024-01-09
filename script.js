@@ -239,7 +239,7 @@ const questions = [
    },
 
    {
-    question: "Next time when Prtof say let's go and beg for someone will you follow Prof?",
+    question: "Next time when Prof says let's go and beg for someone will you follow Prof?",
     answers: [
      { text: "Yes", correct: false },
      { text: "No", correct: false },
